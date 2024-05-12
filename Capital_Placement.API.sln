@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capital_Placement.API", "Capital_Placement.API.csproj", "{04E67D01-F152-4DAE-8775-67EEDAD5A07A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capital_Placement.CORE", "..\Capital_Placement.CORE\Capital_Placement.CORE.csproj", "{5A6831EA-FC10-459F-B55C-D14B0275FF8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04E67D01-F152-4DAE-8775-67EEDAD5A07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E67D01-F152-4DAE-8775-67EEDAD5A07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E67D01-F152-4DAE-8775-67EEDAD5A07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E67D01-F152-4DAE-8775-67EEDAD5A07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A6831EA-FC10-459F-B55C-D14B0275FF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6831EA-FC10-459F-B55C-D14B0275FF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6831EA-FC10-459F-B55C-D14B0275FF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6831EA-FC10-459F-B55C-D14B0275FF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF56DC10-05AF-4053-A1F2-4400577D3AD9}
+	EndGlobalSection
+EndGlobal
